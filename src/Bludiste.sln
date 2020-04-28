@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bludiste", "src\Bludiste\Bludiste.csproj", "{D6B543E0-B433-4855-9CE0-B9B2506C72C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bludiste", "Bludiste\Bludiste.csproj", "{D6B543E0-B433-4855-9CE0-B9B2506C72C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
